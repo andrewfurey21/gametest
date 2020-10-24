@@ -1,0 +1,6 @@
+Spawn areas
+orbs increase life of spawn areas
+when in spawn areas, you can go into viewmode. 
+
+can also collect health stuff and extra pellets. all controlled by the server.
+

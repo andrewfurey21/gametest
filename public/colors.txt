@@ -1,0 +1,8 @@
+Color    Col1     Col2
+
+green    #51db5f  #117330
+red      #e00000  #940000
+blue     #02cce3  #008c9c
+purple   #7f4ed4  #433261
+orange   #ffc400  #99780c
+grey     #cfcfcf  #2b2a2a
